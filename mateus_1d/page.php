@@ -108,6 +108,15 @@ while($res = mysqli_fetch_assoc($seleciona)){
         background-color: rgba(255, 255, 255, 0.2);
         color: white;
     }
+    textarea{
+        margin: auto;
+        width: 260px;
+        padding:25px;
+        border: 2px solid white;
+        border-radius: 30px;
+        background-color: rgba(255, 255, 255, 0.1);
+        color: white;
+    }
 
     
       
